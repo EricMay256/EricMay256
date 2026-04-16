@@ -16,7 +16,7 @@ Personal Unity library — reusable systems, components, and tooling including t
 Extracted as a subtree from my private development suite.
 
 **[Intro Game Dev Course](https://github.com/EricMay256/intro-gamedev-course)**
-Solo-authored project backbone for a Unity-centric intro game development course I teach from. 
+Solo-authored project backbone for a Unity-centric intro game development course that I teach. 
 12 lessons covering core Unity concepts from scratch. 
 Repo contains documented code and Unity assets, aided by personal instruction.
 
