@@ -12,12 +12,11 @@ Running in production on Heroku. Includes a C# Unity SDK.
 Built to serve multiple games from a single instance.
 
 **[UBear Framework](https://github.com/EricMay256/UBear)**
-Personal Unity library — reusable systems, components, and tooling
-including the leaderboard SDK client and an inventory system.
+Personal Unity library — reusable systems, components, and tooling including the leaderboard SDK client and an inventory system. 
+Extracted as a subtree from my private development suite.
 
-**[386Project](https://github.com/EricMay256/386Project)**
-<!-- TODO: rename repo and update this section.  -->
-Solo-authored Unity project backbone for an intro game development
+**[Intro to Game Dev - Class Materials](https://github.com/EricMay256/386Project)**
+Solo-authored project backbone for a Unity-centric intro game development
 course I teach from. 12 lessons covering core Unity concepts from
 scratch. Repo covers code, aided by personal instruction.
 
