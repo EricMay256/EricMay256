@@ -9,7 +9,7 @@ developers get things done faster.
 **[High Score Server](https://github.com/EricMay256/HighScoreServer)**
 FastAPI + PostgreSQL + Redis backend for Unity game leaderboards.
 Running in production on Heroku. Includes a C# Unity SDK.
-Built to serve multiple games from a single instance.
+Built to serve multiple games from a single instance. [View it live](https://high-score-server-9db572197af4.herokuapp.com/)
 
 **[UBear Framework](https://github.com/EricMay256/UBear)**
 Personal Unity library — reusable systems, components, and tooling including the leaderboard SDK client and an inventory system. 
