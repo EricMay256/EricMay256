@@ -47,4 +47,4 @@ I write about engineering and developer tooling on Medium:
 
 Game development, backend engineering (Python/FastAPI), developer advocacy, or tools/SDK engineering. Also open to technical education and simulation/training roles. Remote or Virginia region — targeting Blacksburg.
 
-[Portfolio](https://ericmay256.github.io) · [Email](mailto:EricMay256@gmail.com)
+[Portfolio](https://ericmay256.github.io) · [Email](mailto:EricMay256@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ericmay256/)
